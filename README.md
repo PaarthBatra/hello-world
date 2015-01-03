@@ -1,10 +1,6 @@
 hello-world
 ===========
 
-my first repository
+my first repository and i want to learn git hub .
 
-Well this is for 1st commit !
 
-This one i have commited from my machine - windows one :)
-
-aGAIN from github web page .. lets see if i can pull it to local
